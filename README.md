@@ -1,6 +1,6 @@
-👋 About Me  
+<h1 align="center">Hey Everyone 👋, I'm Sumit Patil</h1>
 
-Hello! I'm Sumit, a motivated and aspiring DevOps Engineer with hands-on experience in cloud technologies and automation. I'm a recent graduate with a one-month internship at TechEazy Consulting, Pune  
+A motivated and aspiring DevOps Engineer with hands-on experience in cloud technologies and automation. I'm a recent graduate with a one-month internship at TechEazy Consulting, Pune  
 
 I'm passionate about building innovative cloud solutions and automating deployment processes. My technical skills include:
 - ☁️ Cloud Computing – AWS 
